@@ -1,0 +1,17 @@
+{
+  "name": "bases_02",
+  "version": "0.0.1",
+  "description": "Esta es una aplicacion de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Camilo Dominguez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {}
+}
